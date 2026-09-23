@@ -5,7 +5,7 @@ Aplicación de escritorio para **visualizar y registrar la telemetría** del pro
 ## Vista de la aplicación
 
 <!-- Añade una captura en docs/img/interfaz.png o cambia esta ruta por la de tu imagen. -->
-![Captura de FOLLOW THE CATAPUM](docs/img/interfaz.png)
+![Captura de FOLLOW THE CATAPUM](img/interfaz.png)
 
 ## ¿Qué hace?
 
