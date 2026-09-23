@@ -1,7 +1,7 @@
 # FOLLOW THE CATAPUM
 
 Aplicación de escritorio para **visualizar y registrar la telemetría** de cohetes de modelismo.
-Recibe datos enviados por un ESP32 a través del puerto serie, muestra las lecturas en tiempo real y permite guardarlas para analizarlas después.
+Recibe datos enviados por un ESP32 a través del puerto serie, muestra las lecturas en tiempo real y permite guardarlas para analizarlas posteriormente.
 
 ## Vista de la aplicación
 
